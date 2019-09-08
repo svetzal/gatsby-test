@@ -1,5 +1,5 @@
 ---
-title: "How to answer "What's wrong with PHP?""
+title: "How to answer 'What's wrong with PHP?'"
 date: "2007-08-22"
 ---
 

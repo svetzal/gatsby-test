@@ -1,5 +1,5 @@
 ---
-title: "Using "Open Source" Commercially"
+title: "Using 'Open Source' Commercially"
 date: "2007-09-14"
 ---
 

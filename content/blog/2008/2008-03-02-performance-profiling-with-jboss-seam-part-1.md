@@ -7,7 +7,7 @@ So, I decided I had had enough of looking at 400-600ms server prep times for Sea
 
 I did some digging, and I came up with some interesting baseline stats. These were done by actually just adding a new webpage to an existing app (kind of, let's see how fast we can make this app go approach).
 
-I tried initial testing between a simple page and a page that used a <ui:composition> and found no difference in performance, so all the tests below use a simple XHTML page that is a composition with a backing template and a single region insertion. The page uses a single <h:outputText> component that displays a value from a message bundle for the HTML title.
+I tried initial testing between a simple page and a page that used a `<ui:composition>` and found no difference in performance, so all the tests below use a simple XHTML page that is a composition with a backing template and a single region insertion. The page uses a single `<h:outputText>` component that displays a value from a message bundle for the HTML title.
 
 I tested out the following scenarios, here there are with my results:
 
@@ -16,17 +16,17 @@ I tested out the following scenarios, here there are with my results:
 - 32.898ms mean request time across 1000 requests with 4-threads
 - ~30.4 tps
 
-2\. Basic Page with 12 <h:outputText> components on it that call a simple method on a stateless POJO Seam component
+2\. Basic Page with 12 `<h:outputText>` components on it that call a simple method on a stateless POJO Seam component
 
 - 33.048ms mean request time across 1000 requests with 4 threads
 - ~30.3 tps
 
-3\. Basic Page with 12 <h:outputText> components on it that call a simple method on a stateful (Conversation scope) POJO Seam component
+3\. Basic Page with 12 `<h:outputText>` components on it that call a simple method on a stateful (Conversation scope) POJO Seam component
 
 - 44.142ms mean request time across 1000 requests with 4 threads
 - ~22.7 tps
 
-4\. Basic Page with 12 <h:outputText> components on it that call a simple method on a Stateful EJB (Conversation scope) component
+4\. Basic Page with 12 `<h:outputText>` components on it that call a simple method on a Stateful EJB (Conversation scope) component
 
 - 51.981ms mean request time across 1000 requests with 4 threads
 - ~19.2 tps

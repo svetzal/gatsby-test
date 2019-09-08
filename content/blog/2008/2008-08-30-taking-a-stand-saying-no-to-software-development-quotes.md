@@ -1,5 +1,5 @@
 ---
-title: "Taking a stand, saying "NO" to software development quotes"
+title: "Taking a stand, saying NO to software development quotes"
 date: "2008-08-30"
 ---
 
