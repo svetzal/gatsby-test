@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Stacey's Musings`,
+    author: `Stacey Vetzal`,
+    description: `I'm not complicated, I just live in a complicated world.`,
+    siteUrl: `https://stacey.vetzal.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `svetzal`,
     },
   },
   plugins: [
@@ -74,5 +74,6 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    `gatsby-plugin-sass`,
   ],
 }
