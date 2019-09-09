@@ -1,6 +1,7 @@
 ---
 title: "Performance Profiling with JBoss Seam - Part 2"
 date: "2008-03-08"
+published: true
 ---
 
 On my last post, I began dissecting what might be causing [JBoss Seam](http://labs.jboss.com/jbossseam/) to be "slow" on one of our projects. In this post, I'm going to show the results of some testing on another Seam based project which hasn't shown slow performance.

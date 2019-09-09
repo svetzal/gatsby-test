@@ -1,6 +1,7 @@
 ---
 title: "Outsource? Yes! Offshore? NO!!!"
 date: "2009-03-19"
+published: true
 ---
 
 I read an [article](http://www.baselinemag.com/c/a/Outsourcing/10-Functions-Ripe-for-Outsourcing/) (well, it's more of a slide-show) this morning that just set my hair on fire.

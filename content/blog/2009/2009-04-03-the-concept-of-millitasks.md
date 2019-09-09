@@ -1,6 +1,7 @@
 ---
 title: "The Concept of Millitasks"
 date: "2009-04-03"
+published: true
 ---
 
 Since I've been back at TWM and getting involved in the day to day operations again, and I'm back on task to formalize our procedures, something has been striking me lately.

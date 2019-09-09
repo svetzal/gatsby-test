@@ -1,6 +1,7 @@
 ---
 title: "7 Simple Steps to a Successful Software Project"
 date: "2011-10-09"
+published: true
 ---
 
 ### 1.  Imagine an end-result in only the coarsest detail

@@ -1,6 +1,7 @@
 ---
 title: "Using Java EE 6, Without Java"
 date: "2009-12-17"
+published: true
 ---
 
 So this month, Java EE 6 was released. So many new capabilities are now part of the baseline stack, it's very cool.

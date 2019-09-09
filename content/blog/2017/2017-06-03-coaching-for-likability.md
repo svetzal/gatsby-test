@@ -1,6 +1,7 @@
 ---
 title: "Coaching for “likability”"
 date: "2017-06-03"
+published: true
 ---
 
 Lately, I’ve been exposed to some commercial coaching practices that push the idea of “likability”, they seem to imply that if you develop your likability you will become a better leader. In looking into this, I’ve found articles on Harvard Business Review going back about 10 years. I won’t link the articles, they’re easy to find if you really have to.

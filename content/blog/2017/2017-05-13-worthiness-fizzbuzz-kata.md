@@ -1,6 +1,7 @@
 ---
 title: "The Worthiness of the Fizzbuzz Kata"
 date: "2017-05-13"
+published: true
 ---
 
 I see a lot of misunderstanding around doing code kata in the work that I do.

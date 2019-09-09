@@ -1,6 +1,7 @@
 ---
 title: "Java EE 6 and Netbeans 6.8 Released"
 date: "2009-12-14"
+published: true
 ---
 
 It's finally here, Java EE 6 represents another serious step forward in the core Java server technology stack.

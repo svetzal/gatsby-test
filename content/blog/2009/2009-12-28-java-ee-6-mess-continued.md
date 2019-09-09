@@ -1,6 +1,7 @@
 ---
 title: "Java EE 6 Mess, Continued"
 date: "2009-12-28"
+published: true
 ---
 
 OK, found another brick wall :)

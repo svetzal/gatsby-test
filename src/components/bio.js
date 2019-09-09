@@ -54,7 +54,8 @@ const Bio = () => {
     />
     <p>
       My name is <strong>{author}</strong> and this is my personal blog,
-      so there's a little of everything here. Feel free to connect with
+      so there's a little of everything here. Some items you may find cross
+      posted to other sites. Feel free to connect with
       me <a href={`https://twitter.com/svetzal`}>on twitter</a>.
     </p>
   </div>)

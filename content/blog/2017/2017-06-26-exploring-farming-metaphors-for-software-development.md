@@ -1,6 +1,7 @@
 ---
 title: "Exploring Farming Metaphors for Software Development"
 date: "2017-06-26"
+published: true
 ---
 
 _Our friends who live down the road from us, always have such a beautiful garden and take amazing care of their animals. The way they've built their life, blending art and homesteading is an inspiration!_

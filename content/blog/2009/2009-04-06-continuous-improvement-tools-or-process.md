@@ -1,6 +1,7 @@
 ---
 title: "Continuous Improvement: Tools or Process?"
 date: "2009-04-06"
+published: true
 ---
 
 Any organization who wants to survive needs to realize that they need to implement some level of Continuous Improvement. This is a concept borrowed from the Lean Manufacturing movement, and applies everywhere. You improve, or you stagnate and become irrelevant.

@@ -1,6 +1,7 @@
 ---
 title: "Technical Debt and The Big Rewrite"
 date: "2015-07-17"
+published: true
 ---
 
 It is so easy to sweep things under the rug.

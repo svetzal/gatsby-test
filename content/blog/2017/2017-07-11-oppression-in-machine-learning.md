@@ -1,6 +1,7 @@
 ---
 title: "Oppression in Machine Learning"
 date: "2017-07-11"
+published: true
 ---
 
 Popular media loves to talk about "artificial intelligence" these days. It is a hot topic, one riddled with misunderstanding.

@@ -1,6 +1,7 @@
 ---
 title: "Apple: Thank You for Leaving Flash Out"
 date: "2010-01-29"
+published: true
 ---
 
 Something has been weighing heavy on my mind for a while now. Years, in fact. I didn't realize it however until the past few weeks while delving back into interactive media for the book publishing industry.

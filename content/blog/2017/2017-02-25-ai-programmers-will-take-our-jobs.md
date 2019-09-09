@@ -1,6 +1,7 @@
 ---
 title: "AI Programmers Will Take Our Jobs!"
 date: "2017-02-25"
+published: true
 ---
 
 So, this hit my newswires today:

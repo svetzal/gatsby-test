@@ -1,6 +1,7 @@
 ---
 title: "Keep It Simple, (Not So) Stupid"
 date: "2007-09-23"
+published: true
 ---
 
 Have you tried this? I mean really, sat down, tried to make something simple. Not simple for you, simple for others.

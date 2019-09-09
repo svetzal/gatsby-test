@@ -1,6 +1,7 @@
 ---
 title: "Software Development Is About People"
 date: "2010-05-24"
+published: true
 ---
 
 We as an industry forgot this for a long time, and I am proud to be part of the movement to bring it back.

@@ -1,6 +1,7 @@
 ---
 title: "Why a Worker's Cooperative"
 date: "2013-11-12"
+published: true
 ---
 
 This past weekend I was at the Software Craftsmanship North America conference (SCNA) hosted by 8th Light in Chicago. This is a wonderful conference that each year I manage to drag more of our staff down to experience.

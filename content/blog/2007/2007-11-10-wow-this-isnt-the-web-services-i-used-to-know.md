@@ -1,6 +1,7 @@
 ---
 title: "Wow, this isn't the Web Services I used to know..."
 date: "2007-11-10"
+published: true
 ---
 
 OK, so around 2005 we did some projects with WebServices.

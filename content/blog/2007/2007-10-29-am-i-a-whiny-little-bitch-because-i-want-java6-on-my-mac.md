@@ -1,6 +1,7 @@
 ---
 title: "Am I a whiny little bitch because I want Java6 on my Mac?"
 date: "2007-10-29"
+published: true
 ---
 
 [This post](http://www.subfurther.com/blog/?p=34) set me off today.

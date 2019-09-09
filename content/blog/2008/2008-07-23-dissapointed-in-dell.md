@@ -1,6 +1,7 @@
 ---
 title: "Dissapointed In Dell"
 date: "2008-07-23"
+published: true
 ---
 
 I leased a nice Dell server this year to help stabilize our IT infrastructure at Three Wise Men. With it I purchased "next business day onsite service".

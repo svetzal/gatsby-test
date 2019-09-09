@@ -1,6 +1,7 @@
 ---
 title: "Testable Java EE 6"
 date: "2009-12-27"
+published: true
 ---
 
 OK, so some progress has been made.
@@ -11,7 +12,8 @@ However I have reached my initial goal which was to use the same API jars marked
 
 My Maven 2 project descriptor now has the following dependencies marked:
 
-`<dependency>
+```xml
+<dependency>
     <groupId>javax.persistence</groupId>
     <artifactId>persistence-api</artifactId>
     <version>2.0</version>
@@ -53,7 +55,8 @@ My Maven 2 project descriptor now has the following dependencies marked:
     <artifactId>eclipselink</artifactId>
     <version>2.0.0</version>
     <scope>test</scope>
-</dependency>` 
+</dependency>
+```
 
 I have two persistence.xml files, one in src/main/resources for production deployment that refers to a container managed datasource, and one in src/test/resources for testing purposes. The testing descriptor refers manually to all Entity objects to be registered with JPA and ties directly via JDBC to my test database.
 

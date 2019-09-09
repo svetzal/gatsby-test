@@ -1,6 +1,7 @@
 ---
 title: "Sanitizing your input considered harmful."
 date: "2007-10-24"
+published: true
 ---
 
 Yeah, you heard me. I love those sensationalist headlines.

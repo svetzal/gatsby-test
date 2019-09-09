@@ -1,6 +1,7 @@
 ---
 title: "My Ongoing Battle with Pseudomyxoma Peritonei (PMP)"
 date: "2009-03-14"
+published: true
 ---
 
 **Introduction**

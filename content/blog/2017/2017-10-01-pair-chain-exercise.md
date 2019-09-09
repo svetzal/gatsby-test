@@ -1,6 +1,7 @@
 ---
 title: "Pair Chain Exercise"
 date: "2017-10-01"
+published: true
 ---
 
 When I facilitate a kata session with a group of developers, sometimes I like to mix it up a little. If the room feels like it’s getting a little bored of a format, or if it’s a sunny Friday afternoon and everyone’s anticipating the weekend, I like to raise the energy level up a little.

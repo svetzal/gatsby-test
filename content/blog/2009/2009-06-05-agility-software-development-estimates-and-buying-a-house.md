@@ -1,6 +1,7 @@
 ---
 title: "Agility, Software Development Estimates and Buying a House"
 date: "2009-06-05"
+published: true
 ---
 
 Lately, software project estimation has risen to the surface as a discussion topic at [Three Wise Men](http://threewisemen.ca/). The flurry of smaller proposals we've done lately has driven the discussion forward.

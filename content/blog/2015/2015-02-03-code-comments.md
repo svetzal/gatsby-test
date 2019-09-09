@@ -1,6 +1,7 @@
 ---
 title: "Lies, Damned Lies, and Code Comments"
 date: "2015-02-03"
+published: true
 ---
 
 Your project is lying to you.

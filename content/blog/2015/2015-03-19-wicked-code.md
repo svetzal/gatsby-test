@@ -1,6 +1,7 @@
 ---
 title: "Wicked Code"
 date: "2015-03-19"
+published: true
 ---
 
 There is a particular class of problem, a [Wicked Problem](https://codingculture.io/wp-content/uploads/2015/03/Wicked_problem), that denies solution.

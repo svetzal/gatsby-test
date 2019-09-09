@@ -1,6 +1,7 @@
 ---
 title: "A Leaf on the Wind"
 date: "2017-04-25"
+published: true
 ---
 
 I've been coaching other teams for over a year now (I spent 15 years coaching my own teams), but I still have a small software development shop bubbling behind me building products, where I have an apprentice and, occasionally, interns.

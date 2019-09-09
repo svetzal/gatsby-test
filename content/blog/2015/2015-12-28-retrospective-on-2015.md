@@ -1,6 +1,7 @@
 ---
 title: "Retrospective on 2015"
 date: "2015-12-28"
+published: true
 ---
 
 The past year has been exhausting. I've never felt so much like a hamster on a wheel.

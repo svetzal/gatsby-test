@@ -1,6 +1,7 @@
 ---
 title: "VMware ESXi At Long Last"
 date: "2008-07-23"
+published: true
 ---
 
 Today we finally got our Dell VM server going again. We had lost 2 disks from our 4 disk RAID5 so we needed to reinstall.

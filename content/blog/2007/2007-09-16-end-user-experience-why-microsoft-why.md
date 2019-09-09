@@ -1,6 +1,7 @@
 ---
 title: "End User Experience - Why, Microsoft, why?"
 date: "2007-09-16"
+published: true
 ---
 
 I recently purchased a new laptop for one of my daughters, it came with Vista. This is the first Vista based computer in the house.

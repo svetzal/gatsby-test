@@ -1,6 +1,7 @@
 ---
 title: "Lies, Damned Lies, and Software Development Estimates"
 date: "2007-10-06"
+published: true
 ---
 
 Yes, that might be an odd headline for me to make, given that I actually run a software development company.

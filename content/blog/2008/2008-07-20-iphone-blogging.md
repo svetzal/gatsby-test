@@ -1,6 +1,7 @@
 ---
 title: "iPhone Blogging"
 date: "2008-07-20"
+published: true
 ---
 
 I think blogging from a portable device will have to fall under the category of microblogging,..

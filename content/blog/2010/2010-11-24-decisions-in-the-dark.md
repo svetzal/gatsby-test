@@ -1,6 +1,7 @@
 ---
 title: "Decisions In The Dark"
 date: "2010-11-24"
+published: true
 ---
 
 We write software [today](http://svetzal.wordpress.com/2008/10/23/today/ "Today"), it's important to always remember this.

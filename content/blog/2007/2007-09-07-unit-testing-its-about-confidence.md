@@ -1,6 +1,7 @@
 ---
 title: "Unit Testing: It's About Confidence"
 date: "2007-09-07"
+published: true
 ---
 
 I was reading [this post](http://www.deaded.com/staticpages/index.php/whywritetestcode), which raises some interesting points, but it sidesteps what I believe is the absolutely **most important reason** to unit test.

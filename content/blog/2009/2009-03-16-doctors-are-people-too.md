@@ -1,6 +1,7 @@
 ---
 title: "Doctors are people too"
 date: "2009-03-16"
+published: true
 ---
 
 In following up my "novel" I posted the other day, I found a neat article from Dalhousie magazine published last year that talks about my surgeon and his family.

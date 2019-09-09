@@ -1,6 +1,7 @@
 ---
 title: "Simplicity Lessons from EasyBrandingTools.com"
 date: "2007-10-19"
+published: true
 ---
 
 Life is a learning exercise.

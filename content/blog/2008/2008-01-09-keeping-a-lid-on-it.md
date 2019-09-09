@@ -1,6 +1,7 @@
 ---
 title: "Keeping A Lid On It"
 date: "2008-01-09"
+published: true
 ---
 
 So I went to the TSOT Rails Project night last night, it was good to see some familiar faces and I enjoyed the presentations.

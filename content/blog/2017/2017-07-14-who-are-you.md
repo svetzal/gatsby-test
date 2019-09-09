@@ -1,6 +1,7 @@
 ---
 title: "Who are you?"
 date: "2017-07-14"
+published: true
 ---
 
 What’s your job title? What does it say about you? What doesn’t it say about you?

@@ -1,6 +1,7 @@
 ---
 title: "What is a Hacker?"
 date: "2017-03-26"
+published: true
 ---
 
 This weekend I attended a "hackathon" and was surrounded by folks who didn't really understand the word hacker. They struggled to get through the pejorative meaning to which it has so popularly become attached. I've long been a fan of IETF RFC 1392, in which the fine folks at the Internet Engineering Task Force (those hackers largely responsible for the early formation of the Internet and its mechanics) attempted to formalize a definition of the word.

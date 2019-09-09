@@ -1,6 +1,7 @@
 ---
 title: "A Nurturing Culture"
 date: "2017-07-29"
+published: true
 ---
 
 I drew this picture to illustrate a few ideas, and it’s long overdue for an explanation beyond the few folks at whom I’ve stood in front of and waved my arms.

@@ -1,6 +1,7 @@
 ---
 title: "Testing Against The Edges"
 date: "2017-01-25"
+published: true
 ---
 
 I have found a new thing.

@@ -1,6 +1,7 @@
 ---
 title: "Database Queries - Programmatic Criteria vs. EQL?"
 date: "2007-11-16"
+published: true
 ---
 
 So, an associate of mine is really enjoying programmatic database query criteria, and now it's spilled over onto me :)

@@ -1,6 +1,7 @@
 ---
 title: "Why, oh why, Wordpress, have you made it so difficult to publish code snippets."
 date: "2007-11-10"
+published: true
 ---
 
 This started as a post about how Java EE 5 has improved my experience in writing webservices based applications.

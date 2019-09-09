@@ -1,6 +1,7 @@
 ---
 title: "iPhone Applications and Intermediate Tooling Considered Harmful"
 date: "2010-04-11"
+published: true
 ---
 
 I have to say, I admire Steve Jobs for taking the hard line on so many issues. It isn't easy, and he's sure taking the flack for it these days. I'm reminded of Derek Sivers' [recent TED talk on starting a movement](http://www.ted.com/talks/derek_sivers_how_to_start_a_movement.html). Apple generally isn't afraid to be the lone crazy out there.

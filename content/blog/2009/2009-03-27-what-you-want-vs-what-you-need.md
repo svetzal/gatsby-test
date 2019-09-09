@@ -1,6 +1,7 @@
 ---
 title: "What You Want vs. What You Need"
 date: "2009-03-27"
+published: true
 ---
 
 People are inherently bad at making this distinction. We want lots. We don't need so much. I want a chocolate bar. I really don't need it. I want a new computer. I don't really need it.

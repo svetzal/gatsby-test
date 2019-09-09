@@ -2,6 +2,7 @@
 title: "The Long Road"
 date: "2017-02-20"
 coverImage: "dsc_0097.jpg"
+published: true
 ---
 
 _More than occasionally, I get asked, "How can I learn programming as a beginner?" I have many thoughts on this, and here is just one of them..._

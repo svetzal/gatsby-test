@@ -1,6 +1,7 @@
 ---
 title: "Revolution"
 date: "2017-05-15"
+published: true
 ---
 
 We have built, unwittingly, a fundamentally flawed environment for delivering software. Incapable of dealing with bugs and viruses.

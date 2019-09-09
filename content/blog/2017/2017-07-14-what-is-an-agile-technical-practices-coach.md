@@ -1,6 +1,7 @@
 ---
 title: "What is an Agile Technical Practices Coach?"
 date: "2017-07-14"
+published: true
 ---
 
 ### The Past

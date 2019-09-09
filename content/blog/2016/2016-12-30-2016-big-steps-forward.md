@@ -2,6 +2,7 @@
 title: "2016 Big Steps Forward"
 date: "2016-12-30"
 coverImage: "img_0321.jpg"
+published: true
 ---
 
 Lots of folks have been complaining lately about 2016.

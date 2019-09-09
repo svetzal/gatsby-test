@@ -1,6 +1,7 @@
 ---
 title: "Property Binding in UIs"
 date: "2007-10-31"
+published: true
 ---
 
 So my ranting continues. My friend is adamantly refusing to change his Servlet/JSP habits and I'm afraid I have to take it out on everyone else around me.

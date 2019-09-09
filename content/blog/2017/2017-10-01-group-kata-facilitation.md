@@ -1,6 +1,7 @@
 ---
 title: "Group Kata Facilitation"
 date: "2017-10-01"
+published: true
 ---
 
 This is my fall-back group format when facilitating kata.

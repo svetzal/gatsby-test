@@ -1,6 +1,7 @@
 ---
 title: "Act on Fact, Not Conjecture"
 date: "2017-02-04"
+published: true
 ---
 
 So, how much of a part do your feelings play in how you write software?

@@ -1,6 +1,7 @@
 ---
 title: "Wishing for the days of XML Deploy-time configuration??!!"
 date: "2008-03-09"
+published: true
 ---
 
 Wow, so here's a short one for you.
