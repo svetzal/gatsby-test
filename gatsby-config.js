@@ -4,9 +4,16 @@ module.exports = {
     author: `Stacey Vetzal`,
     description: `I'm not complicated, I just live in a complicated world.`,
     siteUrl: `https://stacey.vetzal.com`,
-    social: {
-      twitter: `svetzal`,
-    },
+    social: [
+      {
+        name: "Twitter",
+        url: "https://twitter.com/svetzal"
+      },
+      {
+        name: "GitHub",
+        url: "https://github.com/svetzal"
+      }
+    ],
   },
   plugins: [
     {
